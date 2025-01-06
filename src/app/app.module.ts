@@ -41,6 +41,7 @@ import {FormsModule, ReactiveFormsModule} from '@angular/forms';
         MatToolbarModule,
         MatPaginatorModule,
         ReactiveFormsModule
+
     ],
     providers: [
         DataService
